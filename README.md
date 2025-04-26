@@ -38,7 +38,7 @@ Just Follow down below instruction.
 ## Installation
 
   1. Unzip the file or Clone install
-  2. File -> Open Project from File System ...
+  2. File -> Open Project from File System ...   
   ![File System](/Image/FileOpen.png)
   3. Select File Directory
   ![Import](/Image/import.png)
