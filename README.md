@@ -29,7 +29,7 @@ Just Follow down below instruction.
 ## Operation
   1. Launch Debug, if a window pop-up - click OK    
   ![LaunchDebug](/Image/lanuchDebug.png)
-  2. Go to live expression table
+  2. Go to live expression table     
   ![live Expression](/Image/LineExpressione.png)
   3. Happy hacking
 
